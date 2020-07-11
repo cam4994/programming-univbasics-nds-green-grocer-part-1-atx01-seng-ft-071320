@@ -8,10 +8,13 @@ def find_item_by_name_in_collection(name, collection)
 end
 
 def consolidate_cart(cart)
-  cart.map {|item|
+  final_cart = []
+  items = {}
+  cart.each do|hash|
+    if final_card.include?
   
     
-  }
+  
 
 end
 
