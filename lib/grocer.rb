@@ -9,10 +9,9 @@ end
 
 def consolidate_cart(cart)
   final_cart = []
-  items = {}
+  items = []
   cart.each do|hash|
-    if final_card.include?
-  
+    
     
   
 
